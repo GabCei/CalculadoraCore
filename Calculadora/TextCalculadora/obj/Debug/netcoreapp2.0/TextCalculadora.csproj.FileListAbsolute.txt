@@ -1,0 +1,16 @@
+c:\users\gabriel.munoz\source\repos\Calculadora\TextCalculadora\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\gabriel.munoz\source\repos\Calculadora\TextCalculadora\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\gabriel.munoz\source\repos\Calculadora\TextCalculadora\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\gabriel.munoz\source\repos\Calculadora\TextCalculadora\bin\Debug\netcoreapp2.0\TextCalculadora.deps.json
+c:\users\gabriel.munoz\source\repos\Calculadora\TextCalculadora\bin\Debug\netcoreapp2.0\TextCalculadora.runtimeconfig.json
+c:\users\gabriel.munoz\source\repos\Calculadora\TextCalculadora\bin\Debug\netcoreapp2.0\TextCalculadora.runtimeconfig.dev.json
+c:\users\gabriel.munoz\source\repos\Calculadora\TextCalculadora\bin\Debug\netcoreapp2.0\TextCalculadora.dll
+c:\users\gabriel.munoz\source\repos\Calculadora\TextCalculadora\bin\Debug\netcoreapp2.0\TextCalculadora.pdb
+c:\users\gabriel.munoz\source\repos\Calculadora\TextCalculadora\bin\Debug\netcoreapp2.0\Core.dll
+c:\users\gabriel.munoz\source\repos\Calculadora\TextCalculadora\bin\Debug\netcoreapp2.0\Core.pdb
+c:\users\gabriel.munoz\source\repos\Calculadora\TextCalculadora\obj\Debug\netcoreapp2.0\TextCalculadora.csprojResolveAssemblyReference.cache
+c:\users\gabriel.munoz\source\repos\Calculadora\TextCalculadora\obj\Debug\netcoreapp2.0\TextCalculadora.csproj.CoreCompileInputs.cache
+c:\users\gabriel.munoz\source\repos\Calculadora\TextCalculadora\obj\Debug\netcoreapp2.0\TextCalculadora.AssemblyInfoInputs.cache
+c:\users\gabriel.munoz\source\repos\Calculadora\TextCalculadora\obj\Debug\netcoreapp2.0\TextCalculadora.AssemblyInfo.cs
+c:\users\gabriel.munoz\source\repos\Calculadora\TextCalculadora\obj\Debug\netcoreapp2.0\TextCalculadora.dll
+c:\users\gabriel.munoz\source\repos\Calculadora\TextCalculadora\obj\Debug\netcoreapp2.0\TextCalculadora.pdb

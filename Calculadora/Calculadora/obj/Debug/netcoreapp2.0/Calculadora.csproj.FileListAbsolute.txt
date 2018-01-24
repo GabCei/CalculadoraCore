@@ -1,0 +1,13 @@
+c:\users\gabriel.munoz\source\repos\Calculadora\Calculadora\bin\Debug\netcoreapp2.0\Calculadora.deps.json
+c:\users\gabriel.munoz\source\repos\Calculadora\Calculadora\bin\Debug\netcoreapp2.0\Calculadora.runtimeconfig.json
+c:\users\gabriel.munoz\source\repos\Calculadora\Calculadora\bin\Debug\netcoreapp2.0\Calculadora.runtimeconfig.dev.json
+c:\users\gabriel.munoz\source\repos\Calculadora\Calculadora\bin\Debug\netcoreapp2.0\Calculadora.dll
+c:\users\gabriel.munoz\source\repos\Calculadora\Calculadora\bin\Debug\netcoreapp2.0\Calculadora.pdb
+c:\users\gabriel.munoz\source\repos\Calculadora\Calculadora\bin\Debug\netcoreapp2.0\Core.dll
+c:\users\gabriel.munoz\source\repos\Calculadora\Calculadora\bin\Debug\netcoreapp2.0\Core.pdb
+c:\users\gabriel.munoz\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp2.0\Calculadora.csprojResolveAssemblyReference.cache
+c:\users\gabriel.munoz\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp2.0\Calculadora.csproj.CoreCompileInputs.cache
+c:\users\gabriel.munoz\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp2.0\Calculadora.AssemblyInfoInputs.cache
+c:\users\gabriel.munoz\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp2.0\Calculadora.AssemblyInfo.cs
+c:\users\gabriel.munoz\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp2.0\Calculadora.dll
+c:\users\gabriel.munoz\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp2.0\Calculadora.pdb
